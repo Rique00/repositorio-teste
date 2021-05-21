@@ -1,0 +1,36 @@
+body{
+    font-family: 'roboto', helvetica;
+    background: linear-gradient(45deg, rgb(255, 36, 237), rgb(44, 255, 202));
+}
+
+.wrapper{
+    height: 900px;
+    width: 900px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.wrapper ul{
+    list-style: none;
+    display: inline;
+}
+
+.wrapper a{
+    padding: 4px;
+    color: white;
+
+}
+
+.wrapper-info{
+    text-align: left;
+    padding-top: 400px;
+    color: white;
+}
+
+wrapper-img{
+    padding-top: 450px;
+    text-align: center;
+}
+
